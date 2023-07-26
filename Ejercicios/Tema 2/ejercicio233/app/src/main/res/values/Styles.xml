@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textview.small" parent="@style/Widget.MaterialComponents.TextView">
+        <item name="android:textColor">@color/purple_700</item>
+        <item name="android:textSize">40dp</item>
+    </style>
+    <style name="button.small" parent="@style/Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/teal_700</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

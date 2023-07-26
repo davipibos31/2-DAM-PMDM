@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Navigetion</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="altura">altura</string>
+    <string name="textview">textview</string>
+    <string name="imc">imc</string>
+    <string name="peso">peso</string>
+    <string name="nombre">Nombre: </string>
+    <string name="nombrecien">Nombre Cientifico: </string>
+    <string name="filtros">filtros</string>
+    <string name="cerrar">cerrar</string>
+    <string name="a_adir_lista">a_adir_lista</string>
+    <string name="bienvenido_a_my_favourites_pets">bienvenido_a_my_favourites_pets</string>
+    <string name="nombre_cientifico">nombre_cientifico</string>
+    <string name="tipo_de_pelo">tipo_de_p</string>
+    <string name="clase">clase</string>
+    <string name="amorosidad1">amorosidad1</string>
+    <string name="a_adir">a_adir</string>
+    <string name="salir">salir</string>
+    <string name="todo">todo</string>
+    <string name="enlace">enlace</string>
+    <string name="camara">camara</string>
+    <string name="galeria">galeria</string>
+    <string name="foto_seleccionada">foto_seleccionada</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ejercicio_232</string>
+    <string name="saludo"> Bienvenido %1$s  </string>
+    <string name="adios"> Hasta luego %1$s  </string>
+    <string name="vacio"> Introduce un nombre  </string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textviewsize1">29sp</dimen>
+    <dimen name="laywi">411dp</dimen>
+    <dimen name="layhe">477dp</dimen>
+    <dimen name="colwi">150dp</dimen>
+    <dimen name="horspa">15dp</dimen>
+    <dimen name="verspa">15dp</dimen>
+    <dimen name="laywi2">144dp</dimen>
+    <dimen name="layhe2">35dp</dimen>
+    <dimen name="laywi3">130dp</dimen>
+    <dimen name="laymar">52dp</dimen>
+    <dimen name="textsize">20sp</dimen>
+    <dimen name="laywi4">140dp</dimen>
+    <dimen name="layhe3">125dp</dimen>
+    <dimen name="laywi5">46dp</dimen>
+    <dimen name="layhe4">16dp</dimen>
+    <dimen name="laymar2">58dp</dimen>
+    <dimen name="laymar3">11dp</dimen>
+    <dimen name="em">10</dimen>
+    <dimen name="laymar4">44dp</dimen>
+    <dimen name="laymar5">200dp</dimen>
+    <dimen name="laywi6">110dp</dimen>
+    <dimen name="layhe5">26dp</dimen>
+    <dimen name="laywi7">60dp</dimen>
+    <dimen name="laywi8">114dp</dimen>
+    <dimen name="layhe6">89dp</dimen>
+    <dimen name="laywi9">236dp</dimen>
+    <dimen name="layhe7">47dp</dimen>
+    <dimen name="textsi">20sp</dimen>
+    <dimen name="max">30</dimen>
+    <dimen name="maxen">400</dimen>
+    <dimen name="tesi">20sp</dimen>
+</resources>

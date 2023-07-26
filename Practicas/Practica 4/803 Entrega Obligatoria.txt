@@ -1,0 +1,7 @@
+
+0803 [Entrega obligatoria]
+
+
+0803 – Crea una nueva versión del ejercicio 0802, añadiendo al Modal drawer una opción de preferencias. 
+En las preferencias, que será un nuevo fragment, el usuario establecerá el texto que quiera que aparezca en la barra de aplicación,
+ y el texto que quieras que aparezca en la cabecera del menú.

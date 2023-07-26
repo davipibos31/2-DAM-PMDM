@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="pref_name">pref_name</string>
+    <string name="txt_btn_deletePrefs">txt_btn_deletePrefs</string>
+    <string name="txtHeader4">Menu</string>
+    <string name="txtHeader2">Colección</string>
+    <string name="txtHeader1">Pets</string>
+    <string name="txtHeader3">txtHeader3</string>
+    <string name="txtMenu21">txtMenu21</string>
+    <string name="txtMenu22">txtMenu22</string>
+    <string name="txtSubgrupo">txtSubgrupo</string>
+    <string name="txtMenu14">Preferencias</string>
+    <string name="txtMenu13">Base Datos</string>
+    <string name="txtMenu12">Solicitud</string>
+    <string name="txtMenu11">Pets</string>
+    <string name="txt_open">txt_open</string>
+    <string name="txt_close">txt_close</string>
+    <string name="a_adir_lista">añadir lista</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="a_adir">Añadir</string>
+    <string name="nombre">Nombre:</string>
+    <string name="nombre_cientifico">Nombre cientifico:</string>
+    <string name="tipo_de_pelo">Tipo de pelo:</string>
+    <string name="clase">Clase:</string>
+    <string name="amorosidad">Amorosidad</string>
+    <string name="salir">salir</string>
+    <string name="enlace">Enlace:</string>
+    <string name="bienvenido_a_my_favourites_pets">My Favourites Pets</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="informaci_n_mascota">Información</string>
+    <string name="nombre2">Nombre:</string>
+    <string name="nombre_cientifico2">Nombre cientifico:</string>
+    <string name="tipo_de_pelo2">Tipo de pelo:</string>
+    <string name="clase2">Clase:</string>
+    <string name="amorosidad2">Amorosidad</string>
+    <string name="salir2">salir</string>
+    <string name="textview2">TextView</string>
+    <string name="todo2">TODO</string>
+    <string name="textview23">TextView</string>
+    <string name="textview34">TextView</string>
+    <string name="textview344">TextView</string>
+    <string name="textview3455">TextView</string>
+    <string name="todo33">TODO</string>
+    <string name="enlace3">Enlace</string>
+    <string name="textview2344">TextView</string>
+    <string name="amorosidad1">amorosidad:</string>
+    <string name="filtros">Filtros:</string>
+    <string name="camara">Camara</string>
+    <string name="galeria">Galeria</string>
+    <string name="foto_seleccionada">Foto seleccionada</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="a">a</string>
+    <string name="todos">todos</string>
+    <string name="aa">aa</string>
+    <string name="aaaa">aaaa</string>
+    <string name="aaa">aaa</string>
+    <string name="aaaaa">aaaaa</string>
+    <string name="aaaaaa">aaaaaa</string>
+    <string-array name="amor_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="filtro_array">
+        <item>Sin filtro</item>
+        <item>Filtro por Nombre</item>
+        <item>Filtro por Amor</item>
+        <item>Filtro por Favoritos</item>
+    </string-array>
+    <string name="mensaje2">¿Quieres eliminarlo de la lista?</string>
+    <string name="negativo2">No se ha eliminado de la lista</string>
+    <string name="Pruebas2">Eliminar</string>
+    <string name="vacio" translatable="false">Los campos <b>Altura</b> y <b>Peso</b> no pueden estar vacios para realizar la operación</string>
+    <string name="sexo" translatable="false">Selecciona el sexo</string>
+    <string name="Mujer" translatable="false">Mujer</string>
+    <string name="Hombre" translatable="false">Hombre</string>
+    <string name="Peso" translatable="false">Peso (kg)</string>
+    <string name="Altura" translatable="false">Altura (cm)</string>
+    <string name="obesidad" translatable="false">Obesidad</string>
+    <string name="Obesidad" translatable="false">Obesidad</string>
+    <string name="sobrepeso" translatable="false">sobrepeso</string>
+    <string name="Normal" translatable="false">Normal</string>
+    <string name="inferior" translatable="false">Peso inferior al normal</string>
+    <string name="peso_kg" translatable="false">Peso (kg)</string>
+    <string name="calcular" translatable="false">CALCULAR</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="button" />
+    <string name="volver">Volver</string>
+    <string name="abrir_alert_dialog">Abrir Alert dialog</string>
+    <string name="abrir_alert_Single_List">Abrir Alert Single List</string>
+    <string name="Pruebas">Almacenar</string>
+    <string name="mensaje1">¿Quieres almacenar los datos?</string>
+    <string name="dialog_button_positivo">Si</string>
+    <string name="dialog_button_negativo">No</string>
+    <string name="dialog_button_neutral">neutral</string>
+    <string name="positivo">La información se ha registrado en el histórico</string>
+    <string name="negativo">“La información no se ha registrado en el histórico</string>
+    <string name="neutral">Has dado al boton neutral</string>
+    <string name="toast_message">La ciudad seleccionada es %s</string>
+    <string name="abrir_alert_multi_list">Abrir Alert Multi List</string>
+    <string name="abrir_alert_single_choice">Abrir Alert Single Choice</string>
+    <string name="abrir_alert_multi_choice">Abrir Alert Multi Choice</string>
+    <string name="userName">Name</string>
+    <string name="password">Password</string>
+    <string name="abrir_custom_alert">abrir custom alert</string>
+    <string name="time_picker">Time Picker</string>
+    <string name="data_picker">Data Picker</string>
+    <string name="txt_fragment1">txt_fragment!</string>
+    <string name="text_persons">text_persons</string>
+    <string name="peso">peso:</string>
+    <string name="imc">imc:</string>
+    <string name="altura">altura:</string>
+    <string name="historico">historico</string>
+    <string name="asd">asd</string>
+    <string name="op1">Delete</string>
+    <string name="op2">Update</string>
+    <string name="op3">op3</string>
+    <string name="op4">op4</string>
+
+</resources>

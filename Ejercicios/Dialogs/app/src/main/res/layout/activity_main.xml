@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        tools:context=".MainActivity">
+
+        <Button
+            android:id="@+id/btnAlert"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/abrir_alert_dialog" />
+
+        <Button
+            android:id="@+id/btnAlertSingleList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/abrir_alert_Single_List" />
+
+
+
+        <Button
+            android:id="@+id/btnAlertSingleChoice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/abrir_alert_single_choice" />
+
+        <Button
+            android:id="@+id/btnAlertMultiChoice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/abrir_alert_multi_choice" />
+
+        <Button
+            android:id="@+id/btnCustomAlert"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/abrir_custom_alert" />
+
+        <Button
+            android:id="@+id/btnTimePicker"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/time_picker" />
+        <Button
+            android:id="@+id/btnDataPicker"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/data_picker" />
+
+        <Button
+            android:id="@+id/btnProgressBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ProgressBar" />
+
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:progress="0"/>
+
+        <Button
+            android:id="@+id/btnProgressBarCancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cancel Progress" />
+
+        <Button
+            android:id="@+id/btnCorrutinaProgressBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Corrutina ProgressBar" />
+
+        <ProgressBar
+            android:id="@+id/Corrutina_progressBar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:progress="0"/>
+
+        <Button
+            android:id="@+id/btnCorrutinaProgressBarCancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Corrutina Cancel Progress" />
+        <Button
+            android:id="@+id/btnNotificacion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Notificacion" />
+    </LinearLayout>
+</ScrollView>

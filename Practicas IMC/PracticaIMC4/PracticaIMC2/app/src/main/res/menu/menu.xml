@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+    android:id="@+id/op01"
+    android:icon="@android:drawable/ic_menu_add"
+    android:title="@string/op1"
+    app:showAsAction="ifRoom" />
+
+    <item
+    android:id="@+id/op02"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_camera"
+    android:title="@string/op2" />
+
+    <item
+    android:id="@+id/op03"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_call"
+    android:title="@string/op3" />
+
+    <item
+    android:id="@+id/op04"
+    android:title="@string/op4" />
+</menu>

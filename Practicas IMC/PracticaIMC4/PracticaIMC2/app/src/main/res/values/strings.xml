@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Practica Índice de Masa Corporal (IMC)</string>
+    <string name="vacio" translatable="false">Los campos <b>Altura</b> y <b>Peso</b> no pueden estar vacios para realizar la operación</string>
+    <string name="sexo" translatable="false">Selecciona el sexo</string>
+    <string name="Mujer" translatable="false">Mujer</string>
+    <string name="Hombre" translatable="false">Hombre</string>
+    <string name="Peso" translatable="false">Peso (kg)</string>
+    <string name="Altura" translatable="false">Altura (cm)</string>
+    <string name="obesidad" translatable="false">Obesidad</string>
+    <string name="Obesidad" translatable="false">Obesidad</string>
+    <string name="sobrepeso" translatable="false">sobrepeso</string>
+    <string name="Normal" translatable="false">Normal</string>
+    <string name="inferior" translatable="false">Peso inferior al normal</string>
+    <string name="peso_kg" translatable="false">Peso (kg)</string>
+    <string name="calcular" translatable="false">CALCULAR</string>
+    <string name="textview">textview</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="button" />
+    <string name="volver">Volver</string>
+    <string name="a_adir">Añadir</string>
+    <string name="abrir_alert_dialog">Abrir Alert dialog</string>
+    <string name="abrir_alert_Single_List">Abrir Alert Single List</string>
+    <string name="Pruebas">Almacenar</string>
+    <string name="mensaje1">¿Quieres almacenar los datos?</string>
+    <string name="dialog_button_positivo">Si</string>
+    <string name="dialog_button_negativo">No</string>
+    <string name="dialog_button_neutral">neutral</string>
+    <string name="positivo">La información se ha registrado en el histórico</string>
+    <string name="negativo">“La información no se ha registrado en el histórico</string>
+    <string name="neutral">Has dado al boton neutral</string>
+    <string name="toast_message">La ciudad seleccionada es %s</string>
+    <string name="abrir_alert_multi_list">Abrir Alert Multi List</string>
+    <string name="abrir_alert_single_choice">Abrir Alert Single Choice</string>
+    <string name="abrir_alert_multi_choice">Abrir Alert Multi Choice</string>
+    <string name="userName">Name</string>
+    <string name="password">Password</string>
+    <string name="abrir_custom_alert">abrir custom alert</string>
+    <string name="time_picker">Time Picker</string>
+    <string name="data_picker">Data Picker</string>
+    <string name="txt_fragment1">txt_fragment!</string>
+    <string name="text_persons">text_persons</string>
+    <string name="peso">peso:</string>
+    <string name="imc">imc:</string>
+    <string name="altura">altura:</string>
+    <string name="historico">historico</string>
+    <string name="asd">asd</string>
+    <string name="nombre">nombre: </string>
+    <string name="op1">Delete</string>
+    <string name="op2">Update</string>
+    <string name="op3">op3</string>
+    <string name="op4">op4</string>
+    <string name="mensaje2">¿Quieres eliminarlo de la lista?</string>
+    <string name="negativo2">No se ha eliminado de la lista</string>
+    <string name="Pruebas2">Eliminar</string>
+</resources>

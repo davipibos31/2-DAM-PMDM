@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="resultado">100dp</dimen>
+    <dimen name="padding_resultado">50dp</dimen>
+    <dimen name="text_normal">24dp</dimen>
+    <dimen name="text_escritura">20dp</dimen>
+    <dimen name="text_radiobuton">17dp</dimen>
+</resources>

@@ -1,0 +1,51 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">Practica1Evaluacion</string>
+    <string name="a_adir_lista">añadir lista</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="a_adir">Añadir</string>
+    <string name="nombre">Nombre:</string>
+    <string name="nombre_cientifico">Nombre cientifico:</string>
+    <string name="tipo_de_pelo">Tipo de pelo:</string>
+    <string name="clase">Clase:</string>
+    <string name="amorosidad">Amorosidad</string>
+    <string name="salir">salir</string>
+    <string name="enlace">Enlace:</string>
+    <string name="bienvenido_a_my_favourites_pets">My Favourites Pets</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="informaci_n_mascota">Información</string>
+    <string name="nombre2">Nombre:</string>
+    <string name="nombre_cientifico2">Nombre cientifico:</string>
+    <string name="tipo_de_pelo2">Tipo de pelo:</string>
+    <string name="clase2">Clase:</string>
+    <string name="amorosidad2">Amorosidad</string>
+    <string name="salir2">salir</string>
+    <string name="textview2">TextView</string>
+    <string name="todo2">TODO</string>
+    <string name="textview23">TextView</string>
+    <string name="textview34">TextView</string>
+    <string name="textview344">TextView</string>
+    <string name="textview3455">TextView</string>
+    <string name="todo33">TODO</string>
+    <string name="enlace3">Enlace</string>
+    <string name="textview2344">TextView</string>
+    <string name="amorosidad1">amorosidad:</string>
+    <string name="filtros">Filtros:</string>
+    <string name="camara">Camara</string>
+    <string name="galeria">Galeria</string>
+    <string name="foto_seleccionada">Foto seleccionada</string>
+    <string name="eliminar">Eliminar</string>
+    <string-array name="amor_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="filtro_array">
+        <item>Sin filtro</item>
+        <item>Filtro por Nombre</item>
+        <item>Filtro por Amor</item>
+        <item>Filtro por Favoritos</item>
+    </string-array>
+</resources>

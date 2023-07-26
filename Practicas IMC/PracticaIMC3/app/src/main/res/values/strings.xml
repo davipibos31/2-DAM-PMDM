@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Practica Índice de Masa Corporal (IMC) V.3</string>
+    <string name="vacio" translatable="false">Los campos <b>Altura</b> y <b>Peso</b> no pueden estar vacios para realizar la operación</string>
+    <string name="sexo" translatable="false">Selecciona el sexo</string>
+    <string name="Mujer" translatable="false">Mujer</string>
+    <string name="Hombre" translatable="false">Hombre</string>
+    <string name="Peso" translatable="false">Peso (kg)</string>
+    <string name="Altura" translatable="false">Altura (cm)</string>
+    <string name="obesidad" translatable="false">Obesidad</string>
+    <string name="Obesidad" translatable="false">Obesidad</string>
+    <string name="sobrepeso" translatable="false">sobrepeso</string>
+    <string name="Normal" translatable="false">Normal</string>
+    <string name="inferior" translatable="false">Peso inferior al normal</string>
+    <string name="peso_kg" translatable="false">Peso (kg)</string>
+    <string name="calcular" translatable="false">CALCULAR</string>
+    <string name="textview">textview</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="button" />
+    <string name="volver">Volver</string>
+    <string name="a_adir">Añadir</string>
+</resources>

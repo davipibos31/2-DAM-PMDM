@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="abrir_alert_dialog">Abrir Alert dialog</string>
+    <string name="abrir_alert_Single_List">Abrir Alert Single List</string>
+    <string name="Pruebas">Prueba Dialogo</string>
+    <string name="mensaje1">Estas seguro que esto es un mensaje</string>
+    <string name="dialog_button_positivo">O.K positivo</string>
+    <string name="dialog_button_negativo">K.O negativo</string>
+    <string name="dialog_button_neutral">neutral</string>
+    <string name="positivo">Has dado al boton positivo</string>
+    <string name="negativo">Has dado al boton negativo</string>
+    <string name="neutral">Has dado al boton neutral</string>
+    <string name="toast_message">La ciudad seleccionada es %s</string>
+    <string name="abrir_alert_multi_list">Abrir Alert Multi List</string>
+    <string name="abrir_alert_single_choice">Abrir Alert Single Choice</string>
+    <string name="abrir_alert_multi_choice">Abrir Alert Multi Choice</string>
+    <string name="userName">Name</string>
+    <string name="password">Password</string>
+    <string name="abrir_custom_alert">abrir custom alert</string>
+    <string name="time_picker">Time Picker</string>
+    <string name="data_picker">Data Picker</string>
+</resources>
