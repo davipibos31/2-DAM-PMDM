@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">scrollview</string>
+    <string name="txt_large">Antes de seguir con elementos, o widgets, más complejos, se introducirán una serie de
+conceptos que ayudarán a entender mejor lo que está por venir.
+ Adapter10, es un objeto que hará las funciones de puente entre un AdapterView y los datos
+de una vista. El Adapter se encargará del acceso a cada elemento y construir sus vistas.
+Entendiendo por vistas, aquello que mostramos al usuario.
+ AdapterView11, es la vista, cuyos hijos vienen determinados por el Adapter. Muestra los
+elementos cargados en un adaptador, los elementos que se deben cargar suelen venir de
+una fuente de datos basada en un array.
+Cuando se utilice la clase AdapterView, se dispondrá de una serie de métodos que se deben
+utilizar, estos dispondrán de unos callbacks que habrá que sobrecargar, en función del elemento y
+acción a gestionar. Algunos de los más comunes son:
+ AdapterView.OnItemClickListener
+● onItemClick(AdapterView parent, View view, int position, long id), este callback
+será invocado cuando un elemento sea pulsado dentro de este AdapterView.
+▪ Sus parámetros son:
+• parent, indica el AdapterView donde se ha producido el clic, también se puede
+encontrar como p0 .
+• view, es la vista dentro del AdapterView en la que se hizo el clic, también se
+puede encontrar como p1 .
+• position, es la posición de la vista, del elemento, sobre el que se ha hecho el
+clic, también se puede encontrar como p2 .
+• id, indica el identificador de la fila que contiene el elemento pulsado, también
+se puede encontrar como p3 .
+ AdapterView.OnItemSelectedListener
+● onItemSelected(AdapterView parent, View view, int position, long id), funciona
+exactamente igual que onItemClick() .
+● onNothingSelected(AdapterView parent), será invocado cuando la selección
+desaparezca de la vista. El parámetro parent contiene el contenedor que ya tiene el
+elemento no seleccionado.
+En el siguiente punto se verá como utilizar estos conceptos con los elementos, o widgets, que
+hacen uso de ellos y se pondrá en práctica los métodos vistos.
+        Antes de seguir con elementos, o widgets, más complejos, se introducirán una serie de
+conceptos que ayudarán a entender mejor lo que está por venir.
+ Adapter10, es un objeto que hará las funciones de puente entre un AdapterView y los datos
+de una vista. El Adapter se encargará del acceso a cada elemento y construir sus vistas.
+Entendiendo por vistas, aquello que mostramos al usuario.
+ AdapterView11, es la vista, cuyos hijos vienen determinados por el Adapter. Muestra los
+elementos cargados en un adaptador, los elementos que se deben cargar suelen venir de
+una fuente de datos basada en un array.
+Cuando se utilice la clase AdapterView, se dispondrá de una serie de métodos que se deben
+utilizar, estos dispondrán de unos callbacks que habrá que sobrecargar, en función del elemento y
+acción a gestionar. Algunos de los más comunes son:
+ AdapterView.OnItemClickListener
+● onItemClick(AdapterView parent, View view, int position, long id), este callback
+será invocado cuando un elemento sea pulsado dentro de este AdapterView.
+▪ Sus parámetros son:
+• parent, indica el AdapterView donde se ha producido el clic, también se puede
+encontrar como p0 .
+• view, es la vista dentro del AdapterView en la que se hizo el clic, también se
+puede encontrar como p1 .
+• position, es la posición de la vista, del elemento, sobre el que se ha hecho el
+clic, también se puede encontrar como p2 .
+• id, indica el identificador de la fila que contiene el elemento pulsado, también
+se puede encontrar como p3 .
+ AdapterView.OnItemSelectedListener
+● onItemSelected(AdapterView parent, View view, int position, long id), funciona
+exactamente igual que onItemClick() .
+● onNothingSelected(AdapterView parent), será invocado cuando la selección
+desaparezca de la vista. El parámetro parent contiene el contenedor que ya tiene el
+elemento no seleccionado.
+En el siguiente punto se verá como utilizar estos conceptos con los elementos, o widgets, que
+hacen uso de ellos y se pondrá en
+</string>
+</resources>

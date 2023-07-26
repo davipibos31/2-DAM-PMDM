@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button.Small" parent="@style/Widget.MaterialComponents.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/padding_default</item>
+        <item name="android:backgroundTint">@color/teal_200</item>
+    </style>
+    <style name="button.Medium" parent="button.Small">
+        <item name="android:padding">22dp</item>
+    </style>
+</resources>
