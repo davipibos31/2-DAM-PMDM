@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">Scrollbar</string>
+    <string name="large">Inicio
+Área personal
+Eventos
+Mis Cursos
+Este curso
+ Ocultar bloques
+ Vista estándar
+Mis cursos
+2_DAM_PMDM
+Sección
+PMDM
+Programación Multimedia y
+Dispositivos Móviles
+
+2º DAM (Presencial)
+
+(100 horas - 5 horas semanales)
+
+
+
+IG Formación
+
+Profesor: Jose María Compañy (jmcompany@igformacion.com)
+
+ Encuesta de Valoración Docente
+No presentado
+ Guia docente PMDMArchivo
+ AvisosForo
+Desarrollo de aplicaciones móviles en Kotlin: Introducción a la programación móvil
+Desarrollo de aplicaciones móviles en Kotlin: Introducción a la programación móvil
+En este libro podrás encontrar todos los apuntes que se utilizan durante el desarrollo del bloque de Programación Móvil.
+Podrás encontrar dos versiones, tapa blanda y digital para Kindle.
+Y... deja un buen comentario.
+
+¡Gracias de antemano!
+
+ Repositorio apuntesURL
+ Importante
+Las fechas de los proyectos finales de evaluación y prácticas obligatorias son fijas y debéis respetar las entregas.
+
+No se aceptarán entregas de prácticas retrasadas. Si se hiciese, como medida extraordinaria, las prácticas entregadas fuera de plazo sufrirán una penalización en la nota por cada día (natural) de retraso respecto a la fecha de entrega.
+
+Las prácticas entregadas deberán funcionar, es decir, si la práctica no compila y no puede ejecutarse supondrá un cero en la nota de la práctica.
+
+Prácticas
+Cómo realizar las entregas
+Todos los proyectos en Android Studio se realizarán utilizando el lenguaje de programación Kotlin y API mínima 21. Los ejercicios realizados tendrán el siguiente formato en el nombre del paquete, edu.nombreapellido.ejcodigoejercicio. Por ejemplo, si realizase el ejercicio 0501, que sería el ejercicio 1 del tema 5, el nombre del paquete sería edu.javiercarrasco.ej0501.
+Una vez terminado cada ejercicio, deberás enviar el directorio completo del proyecto Android Studio comprimido, antes de ello, limpia el proyecto para que ocupe menos espacio, utiliza la opción Build > Clean Project. El fichero deberá estar en formato .ZIP.
+ Repositorio de practicasURL
+Esta es la dirección del repositorio de las practicas de todas las unidades de la asignatura. Se iran actualizando y creando las carpetas con las respectivas practicas conforme se vaya avanzando el temario.
+
+Unidad 1: Introducción a los dispositivos móviles
+Unidad 2: Diseño de aplicaciones móviles
+Unidad 3: Introducción a Kotlin
+Unidad 4: Elementos básicos en Android
+ Unidad 4: Elementos básicos en AndroidArchivo
+Recursos
+ animalsArchivo
+ candiesArchivo
+ MyRecyclerViewArchivo
+Prácticas
+Cómo realizar las entregas
+Todos los proyectos en Android Studio se realizarán utilizando el lenguaje de programación Kotlin y API mínima 21. Los ejercicios realizados tendrán el siguiente formato en el nombre del paquete, edu.nombreapellido.ejcodigoejercicio. Por ejemplo, si realizase el ejercicio 0501, que sería el ejercicio 1 del tema 5, el nombre del paquete sería edu.javiercarrasco.ej0501.
+Una vez terminado cada ejercicio, deberás enviar el directorio completo del proyecto Android Studio comprimido, antes de ello, limpia el proyecto para que ocupe menos espacio, utiliza la opción Build > Clean Project. El fichero deberá estar en formato .ZIP.
+ Práctica 1 - Entrega obligatoriaTarea
+No presentado
+Unidad 5: Intents y permisos
+Unidad 6: Dialogs, tareas asíncronas y notificaciones
+Unidad 7: Fragments
+Proyecto evaluación 1
+Unidad 8: Menús y preferencias de usuario
+Unidad 9: DB Adapter
+Unidad 10: Firebase
+Unidad 11: Mapas
+Proyecto evaluación 2
+Unidad 12: Unity
+Anexos
+Salta Navegación
+Oculta bloque NavegaciónNavegación
+Página Principal
+
+Área personal
+
+Páginas del sitio
+
+Mis cursos
+
+2_DAM_CENTRO
+
+2_DAM_AD
+
+2_DAM_DI
+
+2_DAM_EIE
+
+2_DAM_ING
+
+2_DAM_PMDM
+
+Participantes
+
+Insignias
+
+Competencias
+
+Calificaciones
+
+PMDM
+
+Unidad 1: Introducción a los dispositivos móviles
+
+Unidad 2: Diseño de aplicaciones móviles
+
+Unidad 3: Introducción a Kotlin
+
+Unidad 4: Elementos básicos en Android
+
+Unidad 5: Intents y permisos
+
+Unidad 6: Dialogs, tareas asíncronas y notificaciones
+
+Unidad 7: Fragments
+
+Proyecto evaluación 1
+
+Unidad 8: Menús y preferencias de usuario
+
+Unidad 9: DB Adapter
+
+Unidad 10: Firebase
+
+Unidad 11: Mapas
+
+Proyecto evaluación 2
+
+Unidad 12: Unity
+
+Anexos
+
+2_DAM_PSP
+
+2_DAM_SGE
+
+Salta Buscar en los foros
+Oculta bloque Buscar en los forosBuscar en los foros
+Buscar
+Buscar
+Búsqueda avanzada
+Salta Avisos recientes
+Oculta bloque Avisos recientesAvisos recientes
+21 de feb., 10:52
+Javier Carrasco Navarro
+PMDM - 5 últimas horas
+13 de feb., 22:30
+Javier Carrasco Navarro
+PMDM - Encuesta de valoración docente
+20 de ene., 19:25
+Javier Carrasco Navarro
+PMDM - Firebase
+4 de ene., 13:44
+Javier Carrasco Navarro
+PMDM - Anexo IV
+2 de ene., 14:14
+Javier Carrasco Navarro
+PMDM - Unidad 9 actualizada
+Temas antiguos ...
+Salta Próximos eventos
+Oculta bloque Próximos eventosPróximos eventos
+Evento de actividad Elección proyecto PMDM cierran
+viernes, 28 octubre, 23:59
+Ir al calendario...
+Salta Actividad reciente
+Oculta bloque Actividad recienteActividad reciente
+Actividad desde jueves, 13 de octubre de 2022, 13:38
+Informe completo de la actividad reciente...
+Sin actividad reciente
+
+Descargar la app para dispositivos móviles</string>
+</resources>

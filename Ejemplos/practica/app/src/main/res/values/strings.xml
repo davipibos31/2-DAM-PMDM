@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">practica</string>
+    <string name="usuariovacio">el nombre de usuario esta vacio</string>
+    <string name="usuariocorrecto">el  usuario es correcto</string>
+    <string name="usuarioincorrecto">el nombre de usuario no es valido</string>
+    <string name="contraseñavacia">contraseña vacia</string>
+    <string name="contraseñacorrecta">contraseña correcta</string>
+    <string name="contraseñaincorrecta">contraseña incorrecta</string>
+
+</resources>
